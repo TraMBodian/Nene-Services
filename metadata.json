@@ -1,0 +1,6 @@
+{
+  "name": "Néné Services | Fast-Food & Traiteur Dakar",
+  "description": "Commandez en ligne vos burgers, poulet braisé, plats sénégalais et réservez notre service traiteur pour vos événements. Paiement sécurisé Wave, Orange Money et espèces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
